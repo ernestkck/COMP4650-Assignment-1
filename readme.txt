@@ -1,1 +1,0 @@
-Extract elasticsearch-6.3.0.zip, gov.zip and trec_eval.zip
